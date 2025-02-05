@@ -1,2 +1,2 @@
 # AI-ML
-This is basic applications of gen AI
+we will perform some pocs in genai and ML 
